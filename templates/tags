@@ -1,0 +1,35 @@
+form element types
+    textarea
+    textarea
+    email
+    number
+    select
+    radio
+    checkbox
+
+button types
+    button
+    submit
+
+somme html tags
+    <html></html>
+    <head></head>
+    <title></title>
+    <body></body>
+    <form></form>
+    <i></i>
+    <b></b>
+    <em></em>
+    <p></p>
+    <div></div>
+    <ol></ol>
+    <ul></ul>
+    <u></u>
+    <pre></pre>
+    <h1></h1>
+    <h2></h2>
+    <h3></h3>
+    <h4></h4>
+    <h5></h5>
+    <h6></h6>
+
